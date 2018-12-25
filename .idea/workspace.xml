@@ -9,9 +9,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e14ea1fb-03ae-4ba6-a9fe-7d523303ccf7" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/github/yanzheshi/collection/map/HashMap.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/github/yanzheshi/collection/map/HashMapTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/markdown-navigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/markdown-navigator/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/smartfox/common_info.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -58,7 +64,7 @@
         <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="209">
-              <caret line="852" lean-forward="true" selection-start-line="796" selection-end-line="852" />
+              <caret line="852" selection-start-line="796" selection-end-line="852" />
               <folding>
                 <element signature="e#19327#19328#0" expanded="true" />
                 <element signature="e#19410#19411#0" expanded="true" />
@@ -75,14 +81,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HashMap.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="HashMap.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/github/yanzheshi/collection/map/HashMap.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="490">
-                <caret line="437" column="4" lean-forward="true" selection-start-line="437" selection-start-column="4" selection-end-line="437" selection-end-column="4" />
+              <first_editor relative-caret-position="1275">
+                <caret line="434" column="9" selection-start-line="434" selection-start-column="9" selection-end-line="434" selection-end-column="9" />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -130,6 +145,7 @@
         <option value="$PROJECT_DIR$/src/com.github.yanzheshi.collection.map/HashMap.md" />
         <option value="$PROJECT_DIR$/src/com/github/yanzheshi/collection/map/HashMapTest.java" />
         <option value="$PROJECT_DIR$/src/com/github/yanzheshi/collection/map/HashMap.md" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -298,12 +314,20 @@
       <workItem from="1545299878878" duration="929000" />
       <workItem from="1545311218497" duration="150000" />
       <workItem from="1545385917777" duration="2452000" />
-      <workItem from="1545708770128" duration="444000" />
+      <workItem from="1545708770128" duration="1073000" />
     </task>
+    <task id="LOCAL-00001" summary="ignore file">
+      <created>1545710690428</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1545710690428</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23994000" />
+    <option name="totallyTimeSpent" value="24623000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -353,10 +377,11 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ignore file" />
+    <option name="LAST_COMMIT_MESSAGE" value="ignore file" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/source-code-analysis.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/LinkedHashMap.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3154">
@@ -767,7 +792,7 @@
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
-          <caret line="852" lean-forward="true" selection-start-line="796" selection-end-line="852" />
+          <caret line="852" selection-start-line="796" selection-end-line="852" />
           <folding>
             <element signature="e#19327#19328#0" expanded="true" />
             <element signature="e#19410#19411#0" expanded="true" />
@@ -791,10 +816,17 @@
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="490">
-            <caret line="437" column="4" lean-forward="true" selection-start-line="437" selection-start-column="4" selection-end-line="437" selection-end-column="4" />
+          <first_editor relative-caret-position="1275">
+            <caret line="434" column="9" selection-start-line="434" selection-start-column="9" selection-end-line="434" selection-end-column="9" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
         </state>
       </provider>
     </entry>
